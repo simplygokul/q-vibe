@@ -1,6 +1,6 @@
 # Internal source map
 
-This file is the evidence layer for the homepage. It is intentionally not rendered in the public experience.
+This file is the evidence layer for the website. It is intentionally not rendered in the public experience.
 
 | Site block | Source / status |
 | --- | --- |
@@ -10,6 +10,6 @@ This file is the evidence layer for the homepage. It is intentionally not render
 | Mangalagiri location / framing | PRD ledger: AP Handlooms ODOP, https://handlooms.ap.gov.in/odopdistrict.html |
 | Hero and craft imagery | AI-generated internal concept-demo assets, 14 August 2026. No named or identifiable artisan is represented. Replace with licensed or first-party QVibe photography before public launch. |
 | Anonymous-product sequence | Conceptual visual demonstration; no price, rating, stock or purchasing interface is shown. |
-| Kondapalli reference photography | Internal-demo editorial references: The News Minute and Hindustan Times. Replace with licensed or first-party photography before public launch. |
-| Kalamkari reference photography | Internal-demo editorial references: People’s Archive of Rural India and independent process documentation. Replace or license before public launch. |
-| Mangalagiri reference photography | Internal-demo editorial reference: The News Minute. Replace with licensed or first-party photography before public launch. |
+| Kondapalli reference photography | Internal-demo editorial references: The News Minute, Hindustan Times, Al Jazeera and Inditales. Replace with licensed or first-party photography before public launch. |
+| Kalamkari reference photography | Internal-demo editorial references: People's Archive of Rural India, Sarmaya, Pedana process documentation and Indulge Express. Replace or license before public launch. |
+| Mangalagiri reference photography | Internal-demo editorial and retail references: The News Minute, Asian Paints Beautiful Homes and GoSwadeshi. Replace with licensed or first-party photography before public launch. |

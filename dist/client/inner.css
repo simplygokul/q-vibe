@@ -5,3 +5,7 @@
 @media (min-width:901px) and (max-width:1080px){.origin{display:none}.nav-toggle{display:flex;flex-direction:column;gap:4px;margin-left:auto}.nav-toggle span{display:block;width:23px;height:1px;background:#fff}.nav-toggle b{font-size:.48rem;text-transform:uppercase}.site-header nav{display:none;position:absolute;top:76px;left:0;right:0;background:#100d0b;padding:1.5rem;flex-direction:column;align-items:flex-start}.site-header nav.open{display:flex}}
 .inner-hero-copy{width:100%;max-width:760px;min-width:0}.contact-wrap>*{min-width:0}.contact-card strong{overflow-wrap:anywhere}
 @media(max-width:520px){.inner-hero h1{font-size:2.9rem;overflow-wrap:break-word}.inner-hero p{font-size:.96rem}.contact-details h2,.contact-form h2{font-size:2.15rem}.contact-card strong{font-size:1.08rem}}
+.photo-band{position:relative;z-index:0;clear:both}
+.content-section{position:relative;z-index:1;isolation:isolate;clear:both;background-color:var(--paper)}
+.theme-grid{position:relative;z-index:2}
+.craft-kondapalli .content-section{background-color:#eee3cf}
