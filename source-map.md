@@ -28,4 +28,4 @@ This private ledger supports the website's numerical and historical claims. It i
 
 ## Image provenance
 
-The current site is an internal presentation demo. AI-generated concept imagery represents no named or identifiable artisan. Editorial and retail reference images from The News Minute, Hindustan Times, Al Jazeera, Inditales, D'source, The Cultural Heritage of India, People's Archive of Rural India, Sarmaya, Pedana process documentation, Indulge Express, Asian Paints Beautiful Homes and GoSwadeshi must be replaced with licensed or first-party QVibe photography before public launch.
+The current site is an internal presentation demo. AI-generated concept imagery represents no named or identifiable artisan. Editorial and retail reference images from The News Minute, Hindustan Times, Al Jazeera, Inditales, D'source, The Cultural Heritage of India, People's Archive of Rural India, Sarmaya, Pedana process documentation, Indulge Express, Vogue India, Lakshmi Sharath, Mathrubhumi, Asian Paints Beautiful Homes and GoSwadeshi must be replaced with licensed or first-party QVibe photography before public launch.
