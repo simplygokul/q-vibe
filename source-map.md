@@ -1,15 +1,31 @@
-# Internal source map
+# QVibe internal evidence ledger
 
-This file is the evidence layer for the website. It is intentionally not rendered in the public experience.
+This private ledger supports the website's numerical and historical claims. It is not rendered on the public site. “Contextual” means the source supports a wider regional or institutional context, not a direct QVibe relationship.
 
-| Site block | Source / status |
-| --- | --- |
-| Brand, current stage, V1 crafts, geography, homepage narrative | `QVibe_Final_V1_Website_PRD.pdf`, dated 14 August 2026 |
-| Kondapalli location / framing | PRD ledger: NTR District Government ODOP, https://ntr.ap.gov.in/one-district-one-product/ |
-| Pedana / Machilipatnam framing | PRD ledger: Krishna District Government ODOP, https://krishna.ap.gov.in/one-district-one-product/ |
-| Mangalagiri location / framing | PRD ledger: AP Handlooms ODOP, https://handlooms.ap.gov.in/odopdistrict.html |
-| Hero and craft imagery | AI-generated internal concept-demo assets, 14 August 2026. No named or identifiable artisan is represented. Replace with licensed or first-party QVibe photography before public launch. |
-| Anonymous-product sequence | Conceptual visual demonstration; no price, rating, stock or purchasing interface is shown. |
-| Kondapalli reference photography | Internal-demo editorial references: The News Minute, Hindustan Times, Al Jazeera, Inditales, D'source and The Cultural Heritage of India. Replace with licensed or first-party photography before public launch. |
-| Kalamkari reference photography | Internal-demo editorial references: People's Archive of Rural India, Sarmaya, Pedana process documentation and Indulge Express. Replace or license before public launch. |
-| Mangalagiri reference photography | Internal-demo editorial and retail references: The News Minute, Asian Paints Beautiful Homes and GoSwadeshi. Replace with licensed or first-party photography before public launch. |
+| Page | Section | Claim | Source organisation | Source URL | Source year | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Home | Brand and first research geography | QVibe is in vision + research stage and begins around Vijayawada–Amaravati with Kondapalli, Mangalagiri and Machilipatnam / Pedana | QVibe | `QVibe_Final_V1_Website_PRD.pdf` | 2026 | QVibe hypothesis |
+| Kondapalli | Hero / place | Kondapalli Bommallu is a centuries-old wooden craft tradition near Vijayawada in NTR District | NTR District Government | https://ntr.ap.gov.in/kondapalli-bommalu/ | Current page, accessed 2026 | Verified |
+| Kondapalli | Hard numbers | District material describes the tradition as approximately four centuries old | NTR District Government | https://ntr.ap.gov.in/kondapalli-bommalu/ | Current page, accessed 2026 | Verified |
+| Kondapalli | Hard numbers | The cluster has a skilled base of 250 active artisans | NTR District Government | https://ntr.ap.gov.in/kondapalli-bommalu/ | Current page, accessed 2026 | Verified |
+| Kondapalli | Making process | Light Poniki wood, carving, joining / surface preparation, tamarind-seed paste and painted colour form part of documented Kondapalli making accounts | NTR District Government | https://ntr.ap.gov.in/kondapalli-bommalu/ | Current page, accessed 2026 | Verified |
+| Kondapalli | Cultural meaning | Subjects include mythology, rural life, animals, occupations and festival / community memory | NTR District Government | https://ntr.ap.gov.in/kondapalli-bommalu/ | Current page, accessed 2026 | Verified |
+| Kondapalli | Local tradition | Arya Kshatriya artisans trace their lineage to Muktharishi, remembered as receiving artistic skill through Lord Shiva | NTR District Government, reporting local tradition | https://ntr.ap.gov.in/kondapalli-bommalu/ | Current page, accessed 2026 | Folklore |
+| Kondapalli | Present reality | District material records ₹89 lakh of MPLAD support for the cluster | NTR District Government | https://ntr.ap.gov.in/kondapalli-bommalu/ | Current page, accessed 2026 | Verified |
+| Kondapalli | Present reality | A Common Facility Centre exists and toolkits were distributed to 72 artisans | NTR District Government | https://ntr.ap.gov.in/kondapalli-bommalu/ | Current page, accessed 2026 | Verified |
+| Kalamkari | Place | Pedana and neighbouring Machilipatnam-area villages form a specialist block-print Kalamkari production centre | Krishna District Government | https://krishna.ap.gov.in/one-district-one-product/ | Current page, accessed 2026 | Verified |
+| Kalamkari | Process | Cloth preparation, myrobalan treatment, wooden-block printing, colour stages, washing and drying are part of the documented process | Krishna District Government | https://krishna.ap.gov.in/one-district-one-product/ | Current page, accessed 2026 | Verified |
+| Kalamkari | Coastal trade story | Painted and dyed cottons from the Coromandel Coast were made for overseas markets during the 17th and 18th centuries | The Metropolitan Museum of Art | https://www.metmuseum.org/perspectives/painting-with-dyes-early-modern-south-asia | Early-modern period; page accessed 2026 | Contextual |
+| Kalamkari | Export context | India's handprinted-textiles category totalled ₹3,216.94 crore in FY2024–25 | Export Promotion Council for Handicrafts | https://www.epch.in/sites/default/files/electionofcoa/EPCH_Annual_Report_2024-25.pdf | FY2024–25 | Verified |
+| Kalamkari | Export context | The UAE accounted for ₹1,539.46 crore within India's broader handprinted-textiles category in FY2024–25 | Export Promotion Council for Handicrafts | https://www.epch.in/sites/default/files/electionofcoa/EPCH_Annual_Report_2024-25.pdf | FY2024–25 | Verified |
+| Kalamkari | Product formats | Official examples include sarees, clothing material, rugs, towels, bed covers, door covers and paintings | Krishna District Government | https://krishna.ap.gov.in/one-district-one-product/ | Current page, accessed 2026 | Verified |
+| Mangalagiri | Technical identity | Mangalagiri material references fine 80s cotton yarn, pit looms, Nizam borders, micro-checks and stripes | Andhra Pradesh Handlooms & Textiles | https://handlooms.ap.gov.in/odopdistrict.html | Current page, accessed 2026 | Verified |
+| Mangalagiri | Beyond sarees | Official material shows Mangalagiri fabric used for tunics, blouses, scarves, stoles and sling bags | Andhra Pradesh Handlooms & Textiles | https://handlooms.ap.gov.in/odopdistrict.html | Current page, accessed 2026 | Verified |
+| Mangalagiri | GI context | Mangalagiri Sarees and Fabrics is recorded as GI application 198, registered in 2012–13 | Andhra Pradesh Handlooms & Textiles | https://handlooms.ap.gov.in/documents/ODOP_GI_Tagged_Products.pdf | 2012–13 | Verified |
+| Mangalagiri | Institutional context | Andhra Pradesh's Handlooms & Textiles administration operates from Mangalagiri | Andhra Pradesh Handlooms & Textiles | https://handlooms.ap.gov.in/about.html | Current page, accessed 2026 | Contextual |
+| Our Vision | Automated-world thesis | Traceable human authorship, real making and clear origin may become more meaningful as automation expands | QVibe | `QVibe_Final_V1_Website_PRD.pdf` | 2026 | QVibe hypothesis |
+| Craft pages | Future pathways and QVibe questions | Proposed presentation, documentation, cultural-positioning and future-market directions are questions to investigate, not existing operations | QVibe | `QVibe_Final_V1_Website_PRD.pdf` and exact content-placement brief | 2026 | QVibe hypothesis |
+
+## Image provenance
+
+The current site is an internal presentation demo. AI-generated concept imagery represents no named or identifiable artisan. Editorial and retail reference images from The News Minute, Hindustan Times, Al Jazeera, Inditales, D'source, The Cultural Heritage of India, People's Archive of Rural India, Sarmaya, Pedana process documentation, Indulge Express, Asian Paints Beautiful Homes and GoSwadeshi must be replaced with licensed or first-party QVibe photography before public launch.
