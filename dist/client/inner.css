@@ -13,3 +13,6 @@
 @media(max-width:700px){.number-grid{grid-template-columns:1fr}.number-grid article{min-height:0;padding:2rem 1.5rem}.number-moment{padding:3.5rem 7vw}.big-number{font-size:3.4rem}}
 .craft-kondapalli .inner-hero{background-image:url(assets/reference/kondapalli-hero.jpg);background-position:54% center}.craft-kalamkari .inner-hero{background-image:url(assets/reference/kalamkari-hero.jpg);background-position:58% center}.craft-mangalagiri .inner-hero{background-image:url(assets/reference/mangalagiri-hero.webp);background-position:62% center}
 @media(max-width:900px){.craft-kondapalli .inner-hero{background-position:68% center}.craft-kalamkari .inner-hero{background-position:57% center}.craft-mangalagiri .inner-hero{background-position:66% center}}
+.craft-mangalagiri .inner-hero-copy{max-width:980px}.craft-mangalagiri .inner-hero h1{font-size:clamp(3.6rem,6vw,6rem);max-width:980px}
+@media(max-width:900px){.craft-mangalagiri .inner-hero-copy{max-width:760px}.craft-mangalagiri .inner-hero h1{font-size:3.8rem}}
+@media(max-width:520px){.craft-mangalagiri .inner-hero h1{font-size:2.9rem}}
