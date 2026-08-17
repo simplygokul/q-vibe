@@ -32,6 +32,6 @@ The current site is an internal presentation demo. AI-generated concept imagery 
 
 ### Watermark-removal pass — 17 August 2026
 
-- `assets/reference/kondapalli-village.jpg` and the unused fallback `kondapalli-artisan.jpg` were replaced with a clean AI-generated editorial concept of a Kondapalli artisan painting wooden figures in a workshop. No real or named artisan is represented.
-- `assets/reference/kalamkari-block.jpg` was replaced with a clean AI-generated editorial concept of a Pedana-style artisan hand-block printing cloth in a workshop. It depicts block printing rather than Srikalahasthi freehand work; no real or named artisan is represented.
+- `assets/reference/kondapalli-place-clean.jpg` was prepared with a clean AI-generated editorial concept of a Kondapalli artisan painting wooden figures in a workshop. Its new filename prevents browsers from reusing the formerly watermarked cached place asset. The unused `kondapalli-artisan.jpg` fallback was also replaced with clean imagery. No real or named artisan is represented.
+- `assets/reference/kalamkari-place-clean.jpg` was prepared with a clean AI-generated editorial concept of a Pedana-style artisan hand-block printing cloth in a workshop. The new filename prevents browsers from reusing the formerly credited cached asset. It depicts block printing rather than Srikalahasthi freehand work; no real or named artisan is represented.
 - Both replacement concepts were generated with OpenAI's built-in image-generation workflow and contain no embedded credits, logos or watermarks.
