@@ -29,3 +29,9 @@ This private ledger supports the website's numerical and historical claims. It i
 ## Image provenance
 
 The current site is an internal presentation demo. AI-generated concept imagery represents no named or identifiable artisan. Editorial and retail reference images from The News Minute, Hindustan Times, Al Jazeera, Inditales, D'source, The Cultural Heritage of India, People's Archive of Rural India, Sarmaya, Pedana process documentation, Indulge Express, Vogue India, Lakshmi Sharath, Mathrubhumi, Asian Paints Beautiful Homes and GoSwadeshi must be replaced with licensed or first-party QVibe photography before public launch.
+
+### Watermark-removal pass — 17 August 2026
+
+- `assets/reference/kondapalli-village.jpg` and the unused fallback `kondapalli-artisan.jpg` were replaced with a clean AI-generated editorial concept of a Kondapalli artisan painting wooden figures in a workshop. No real or named artisan is represented.
+- `assets/reference/kalamkari-block.jpg` was replaced with a clean AI-generated editorial concept of a Pedana-style artisan hand-block printing cloth in a workshop. It depicts block printing rather than Srikalahasthi freehand work; no real or named artisan is represented.
+- Both replacement concepts were generated with OpenAI's built-in image-generation workflow and contain no embedded credits, logos or watermarks.
